@@ -10,7 +10,7 @@ app.get('/',(req, res)=>{
 
 // Redirect endpoint
 app.get('/redirect', (req, res) => {
-  res.redirect('https://example.com'); // Replace with your target URL
+  res.redirect('https://web.whatsapp.com/'); // Replace with your target URL
 });
 
 // Start the server
